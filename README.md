@@ -1,5 +1,5 @@
 
-# The dataset provided appears to represent some form of market or retail data with various features such as 'Fresh', 'Milk', 'Grocery', 'Frozen', 'Detergents_Paper', 'Delicassen', along with categorical features like 'Channel' and 'Region'. Each row seems to represent a different entity, perhaps a store or a market, with specific values for the mentioned features.
+## The dataset provided appears to represent some form of market or retail data with various features such as 'Fresh', 'Milk', 'Grocery', 'Frozen', 'Detergents_Paper', 'Delicassen', along with categorical features like 'Channel' and 'Region'. Each row seems to represent a different entity, perhaps a store or a market, with specific values for the mentioned features.
 
 ## A brief overview of the dataset:
 
